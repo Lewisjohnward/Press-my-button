@@ -1,0 +1,23 @@
+body {
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.main {
+    margin-top: 70px;
+    margin-left: 300px
+}
+
+.text{
+    
+}
+
+.button {
+    margin-top: 100px;
+    font-family: 'Cookie', cursive;
+    font-size: 25px;
+    border: none;
+    background-color: white;
+}
